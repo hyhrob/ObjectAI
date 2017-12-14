@@ -1,1 +1,6 @@
 build
+ObjectAI/Library
+ObjectAI/Temp
+ObjectAI.sln
+Assembly-CSharp.csproj
+*.meta
