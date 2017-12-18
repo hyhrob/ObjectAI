@@ -4,3 +4,4 @@ ObjectAI/Temp
 ObjectAI.sln
 Assembly-CSharp.csproj
 *.meta
+.vs

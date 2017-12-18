@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AIBase : MonoBehaviour {
-	public GameObject Obj;
+public class BasicAI : MonoBehaviour {
+
+	public GameObject target;
 	// Use this for initialization
 	void Start () {
 		
